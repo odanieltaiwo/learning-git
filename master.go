@@ -1,1 +1,3 @@
+package master
+
 func master () {}
